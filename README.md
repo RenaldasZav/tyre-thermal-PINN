@@ -6,6 +6,7 @@ The purpose of this project is to create a PINN to model the relationship betwee
 
 # Data Acquisition
 Telemetry data is collected from Assetto Corsa. The logger runs alongside the game and records data at 50Hz.
+
 **Car:** Mercedes AMG GT3 (2015)  
 **Track:** Imola  
 **Features logged:**
