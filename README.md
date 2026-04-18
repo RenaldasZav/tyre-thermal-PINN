@@ -18,4 +18,4 @@ Telemetry data is collected from Assetto Corsa. The logger runs alongside the ga
 - Speed, throttle, brake, steering angle
 - **Target variable:** Tyre core temperature per corner (FL, FR, RL, RR)
 
-Baseline setup, 6 laps per configuration, no tyre blankets, one variable changed per 6 lap run.
+Baseline setup, 4 laps per configuration, no tyre blankets, one variable changed per 4 lap run.
