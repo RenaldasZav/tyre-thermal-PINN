@@ -12,11 +12,11 @@ Telemetry data is collected from Assetto Corsa. The logger runs alongside the ga
 **Features logged:**
 - Lateral and longitudinal g-forces
 - Wheel slip per corner
-- Normal load per corner (Fz)
+- Normal load per corner
 - Tyre pressure per corner
 - Camber per corner
 - Speed, throttle, brake, steering angle
-- **Target variable:** Tyre core temperature per corner (FL, FR, RL, RR)
+- **Target variable:** Tyre core temperature per corner
 
 Baseline setup, 4 laps per configuration, no tyre blankets, one variable changed per 4 lap run. 8 Blocks of runs in total
 
